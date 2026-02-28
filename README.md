@@ -47,3 +47,15 @@ Analyze student data to predict academic success (final grades and pass/fail) an
 
 ## Tools
 Python (pandas, numpy), matplotlib, seaborn, scikit-learn
+
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/ad-546/Student-Performance-Analysis.git
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3.Open the Jupyter notebook:
+
+  jupyter notebook student_performance_analysis.ipynb   
